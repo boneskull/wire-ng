@@ -58,5 +58,5 @@
   "requireDotNotation": true,
   "disallowYodaConditions": true,
   "disallowNewlineBeforeBlockStatements": true,
-  "excludeFiles": ["tags.js", "tags.min.js", "tags-tpls.js", "tags-tpls.min.js"]
+  "excludeFiles": ["node_modules/**/*.js"]
 }
